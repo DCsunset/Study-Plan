@@ -2,6 +2,6 @@
 
 ## Summer Vacation
 
-[] Docker, Podman and KVM concepts
-[] Usage of Podman
+* [ ] Docker, Podman and KVM concepts
+* [ ] Usage of Podman
 
