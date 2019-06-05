@@ -2,6 +2,6 @@
 
 ## Summer Vacation
 
-* [ ] Docker, Podman and KVM concepts
-* [ ] Usage of Podman
+* [ ] Concepts of docker, KVM, podman and buildah
+* [ ] Usage of podman and buildah
 
