@@ -7,4 +7,4 @@
 * [ ] Learn to use OpenWrt
 * [ ] Neural Networks (CS231n)
 * [ ] HAProxy
-* [ ] Progressive Web App (PWA) and service worker
+* [x] Progressive Web App (PWA) and service worker
