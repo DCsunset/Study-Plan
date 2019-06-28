@@ -8,3 +8,4 @@
 * [ ] Neural Networks (CS231n)
 * [ ] HAProxy
 * [x] Progressive Web App (PWA) and service worker
+* [ ] GraphQL and REST
