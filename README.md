@@ -1,6 +1,6 @@
 # 2019
 
-## Summer Vacation
+## Summer
 
 * [ ] Learn the concepts of docker, KVM, podman and buildah
 * [ ] Learn to use podman and buildah
