@@ -6,7 +6,7 @@
 * [ ] Learn to use podman and buildah
 * [ ] Learn to use OpenWrt
 * [ ] Machine Learning and Neural Networks (CS229 and CS231n)
-* [ ] HAProxy
+* [x] HAProxy
 * [x] Progressive Web App (PWA) and service worker
 * [ ] GraphQL and REST
 * [ ] Basic knowledge about Network Security
