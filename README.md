@@ -2,7 +2,7 @@
 
 ## Summer
 
-* [ ] Learn the concepts of docker, KVM, podman and buildah
+* [ ] Concepts of docker, KVM, podman and buildah
 * [ ] Learn to use podman and buildah
 * [ ] Learn to use OpenWrt
 * [ ] Machine Learning and Neural Networks (CS229 and CS231n)
