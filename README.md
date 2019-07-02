@@ -10,3 +10,4 @@
 * [x] Progressive Web App (PWA) and service worker
 * [ ] GraphQL and REST
 * [ ] Basic knowledge about Network Security
+* [ ] iptables and tc
