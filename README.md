@@ -8,6 +8,7 @@
 * [ ] Machine Learning and Neural Networks (CS229 and CS231n)
 * [x] HAProxy
 * [x] Progressive Web App (PWA) and service worker
-* [ ] GraphQL and REST
+* [ ] GraphQL
+* [ ] REST
 * [ ] Basic knowledge about Network Security
 * [ ] iptables and tc
