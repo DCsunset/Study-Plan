@@ -9,6 +9,6 @@
 * [x] HAProxy
 * [x] Progressive Web App (PWA) and service worker
 * [ ] GraphQL
-* [ ] REST
+* [x] REST
 * [ ] Basic knowledge about Network Security
 * [ ] iptables and tc
