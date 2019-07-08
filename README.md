@@ -12,3 +12,4 @@
 * [x] REST
 * [ ] Basic knowledge about Network Security
 * [ ] iptables and tc
+* [ ] HTTP CONNECT
