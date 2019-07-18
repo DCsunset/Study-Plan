@@ -12,3 +12,4 @@
 * [ ] Basic knowledge about Network Security
 * [ ] iptables and tc
 * [ ] HTTP CONNECT
+* [ ] TypeScript
