@@ -14,4 +14,4 @@
 * [ ] HTTP CONNECT
 * [ ] TypeScript
 * [ ] gRPC
-* [ ] Learn Golang
+* [x] Learn Golang
