@@ -8,7 +8,7 @@
 * [ ] CS231n
 * [x] HAProxy
 * [x] Progressive Web App (PWA) and service worker
-* [ ] GraphQL
+* [x] GraphQL
 * [x] REST
 * [ ] Basic knowledge about Network Security
 * [ ] iptables and tc
