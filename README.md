@@ -17,3 +17,4 @@
 * [ ] gRPC
 * [x] Learn Golang
 * [ ] More git operations (rebase, cherry pick)
+* [ ] WebAssembly
